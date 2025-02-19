@@ -1,0 +1,10 @@
+
+CobraCM2217-26 Brushless DC Motor
+
+1     ! motor type (Permanent magnet DC)
+
+
+0.179    ! Rmotor (Ohms)
+
+0.36     ! Io     (Amps)
+6.950    ! Kv     (rpm/Volt)
